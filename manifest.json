@@ -1,0 +1,16 @@
+{
+    "name":"ClickForLaughs",
+    "version":"1.0.0",
+    "manifest_version":2,
+    "description":"Click for laughs", 
+    "Author": "Subhankar Dutta",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "logo1.png",
+            "48": "logo2.png",
+            "128": "logo3.png"
+        }
+    }
+
+}
